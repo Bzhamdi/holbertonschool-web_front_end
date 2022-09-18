@@ -13,3 +13,6 @@ read me
 
 ### 31. Address and latest news authors
 address and small
+
+### 32. Typography section - using the correct tags
+pre , mark, code
