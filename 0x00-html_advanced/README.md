@@ -16,3 +16,19 @@ address and small
 
 ### 32. Typography section - using the correct tags
 pre , mark, code
+
+### 34. Details
+                <div>
+                    <h3>Default</h3>
+                    <details>
+                        <summary>Show/Hide me</summary>
+                        <p>Something small enough to escape casual notice.</p>
+                    </details>
+                </div>
+                <div>
+                    <h3>Open</h3>
+                    <details>
+                        <summary>Always open</summary>
+                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                    </details>
+                </div>
